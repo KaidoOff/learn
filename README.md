@@ -9,7 +9,7 @@
 ### Модуль 1: Переменные и типы данных ⏳
 **Уроки:**
 - var, let, const ✔️
-- Примитивные типы: number, string, boolean, null, undefined, symbol, bigint  
+- Примитивные типы: number, string, boolean, null, undefined, symbol, bigint  ✔️
 - Преобразование типов
 
 **Практика (`learn` репозиторий):**

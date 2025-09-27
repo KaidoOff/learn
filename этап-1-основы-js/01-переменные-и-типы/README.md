@@ -2,12 +2,12 @@
 
 ## Цели ⏳
 - Понять разницу между var, let и const ✔️
-- Изучить примитивные типы данных
+- Изучить примитивные типы данных ✔️
 - Научиться преобразовывать типы
 
 ## Уроки ⏳
 1. var, let, const ✔️
-2. Примитивные типы: number, string, boolean, null, undefined, symbol, bigint
+2. Примитивные типы: number, string, boolean, null, undefined, symbol, bigint ✔️
 3. Преобразование типов
 
 ## Практика ⏳
